@@ -1,7 +1,8 @@
 A simple Spring Core project demonstrating Dependency Injection (DI) techniques, including: 
---> Field Injection – Inject dependencies directly into fields using @Autowired. 
---> Setter Injection – Inject dependencies through setter methods using @Autowired. 
---> Constructor Injection – Inject dependencies via constructors using @Autowired.
+
+Field Injection – Inject dependencies directly into fields using @Autowired. 
+Setter Injection – Inject dependencies through setter methods using @Autowired. 
+Constructor Injection – Inject dependencies via constructors using @Autowired.
 
 This project includes example beans like Car and Engine to illustrate how Spring manages object dependencies.
 
